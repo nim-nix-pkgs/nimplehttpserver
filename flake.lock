@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651555764,
-        "narHash": "sha256-9N7sron7w050/kE+Mybj8aNjlXtcju6zXhBFybS+mmk=",
+        "lastModified": 1651918220,
+        "narHash": "sha256-5VW8bSfVHNYzPaxvSK8bEbaceww5ZWcaKEu4LzTvL+U=",
         "owner": "nim-nix-pkgs",
         "repo": "nimplehttpserver",
-        "rev": "d802bc67a881b05162ec8c63cca411c362d9a876",
+        "rev": "762000a5696ba448e4cb933a2962ce6a9f3c98f2",
         "type": "github"
       },
       "original": {
